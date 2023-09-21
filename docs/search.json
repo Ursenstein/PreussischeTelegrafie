@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Überblick",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "History.html",
+    "href": "History.html",
+    "title": "Ursprünge",
+    "section": "",
+    "text": "Am 22. März 1792 legte Claude Chappe dem Französischem Nationalkonvent eine Methode vor, mit deren Hilfe es möglich sein sollte, über große Entfernungen komplexe Nachrichten in Sekundenschnelle zu übermitteln. Dabei wurden mithilfe von in Reihe aufgestellten Signaltürmen optische Signale dargestellt die die angrenzenden Stationen identifizierten und daraufhin selbst übermittelten.1"
+  },
+  {
+    "objectID": "History.html#footnotes",
+    "href": "History.html#footnotes",
+    "title": "Ursprünge",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDieter Herbath, Die Entwicklung Der Optischen Telegrafie in Preußen, Köln 1978 (Arbeitshefte / Landeskonservator Rheinland 15).↩︎\nAdolph Poppe, Die Bedeutung Und Das Wesen Der Antiken Telegraphie, Etc, n.pl. 1867.↩︎\nJulius Caesar, Der Gallische Krieg : De Bello Gallico: Lateinisch-Deutsch, Berlin 20134., überarbeitete Auflage (Sammlung Tusculum).↩︎\nFriedrich Schiller, Wilhelm Tell, n.pl., https://www.projekt-gutenberg.org/schiller/tell/tell42.html.↩︎\nHerbath, Die entwicklung der optischen telegrafie in preußen.↩︎"
+  },
+  {
+    "objectID": "Data.html",
+    "href": "Data.html",
+    "title": "Datenmodell",
+    "section": "",
+    "text": "Um die Eigenschaften der Optischen Telegrafenlinie und speziell ihrer einzelnen Stationen zu sammeln und für weitere Untersuchungen nachvollziehbar zu machen wird ein Datenmodell angelegt. Hierbei werde für jeder Station Attribute zugewiesen."
+  },
+  {
+    "objectID": "biblio.html",
+    "href": "biblio.html",
+    "title": "Bibliography",
+    "section": "",
+    "text": "References\n\nHesperus (1832) - bayerische staatsbibliothek. https://opacplus.bsb-muenchen.de/Vta2/bsb10531413/bsb:6354530?page=1310 [letzter Zugriff June 9, 2022].\n\n\nWeb Map Service – GISWiki. http://giswiki.org/wiki/Web_Map_Service [letzter Zugriff August 30, 2023].\n\n\nRasterdaten. https://docs.qgis.org/2.18/de/docs/gentle_gis_introduction/raster_data.html [letzter Zugriff August 30, 2023].\n\n\nPreußische Kartenaufnahme (1843-1878) - RLP - OGD Plattform. https://daten.rlp.de/geodata/098f2c4f-8822-ed79-6500-cc92195ae0a2 [letzter Zugriff August 30, 2023].\n\n\nGeographic information system – GISWiki. http://giswiki.org/index.php?title=Geographic_information_system&redirect=no [letzter Zugriff August 30, 2023].\n\n\n1891 – 1912: Preußische Kartenaufnahme 1 : 25 000; Neuaufnahme. https://www.bezreg-koeln.nrw.de/geobasis-nrw/produkte-und-dienste/topographische-karten/historische-topographische-karten/1891-1912 [letzter Zugriff August 30, 2023].\n\n\nDeutsches Reich 1 : 25.000 (1901-1945)  LGB_startseite. https://geobasis-bb.de/lgb/de/geodaten/historische-karten/deutsches-reich-1-25000-%281901-1945%29/ [letzter Zugriff August 30, 2023].\n\n\nPreußische Landesaufnahme 1 : 25 000 (PL)  Landesamt für Geoinformation und Landesvermessung Niedersachsen. https://www.lgln.niedersachsen.de/startseite/geodaten_karten/historische_karten/preussische_landesaufnahme/preuische-landesaufnahme-141218.html [letzter Zugriff August 30, 2023].\n\n\nOpenStreetMap Deutschland - Die freie Wiki-Weltkarte. https://www.openstreetmap.de/ [letzter Zugriff August 31, 2023].\n\n\n3. Vektordaten — QGIS Documentation Dokumentation. https://docs.qgis.org/3.16/de/docs/gentle_gis_introduction/vector_data.html [letzter Zugriff August 31, 2023].\n\n\nOptische Telegraphie in Preußen. https://www.optischertelegraph4.de/stationen/bilder/OTLinie.kmz [letzter Zugriff August 31, 2023].\n\n\nOverpass turbo. https://overpass-turbo.eu/ [letzter Zugriff September 4, 2023].\n\n\nTranskribus. in: READ-COOP. https://readcoop.eu/de/transkribus/ [letzter Zugriff September 6, 2023].\n\n\nWeb-OPAC V4.6.0.16933. https://bibliothek.mspt.de/webopac/index.asp?detmediennr=1 [letzter Zugriff September 6, 2023].\n\n\nBibliotheken der Museumsstiftung Post und Telekommunikation – Museum für Kommunikation – Sammlungen. https://sammlungen.museumsstiftung.de/bibliotheken/ [letzter Zugriff September 6, 2023].\n\n\nMit Attributtabelle arbeiten. https://docs.qgis.org/2.18/de/docs/user_manual/working_with_vector/attribute_table.html#id16 [letzter Zugriff September 11, 2023].\n\n\nEU-DEM v1.1 — Copernicus Land Monitoring Service. https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1 [letzter Zugriff September 11, 2023].\n\n\nanon. (1833): Die rheinprovinz der preussischen monarchie, oder die beschreibung der systematischen eintheilung in regierungsbezirke, kreise, bürgermeistereien und honnschaften, sowie der städte, flecken, dörfer, einzelner etablissements: Mit angabe der einwohnerzahl, gewerbe, merkwürdigkeiten, anstalten u.s.w. ; ein historisch-geographisch-statistisches handbuch zum gebrauch aller stände. Electronic ed. Düsseldorf: Werbrunn.\n\n\nanon. (2023b): Liste der Stationen des preußischen optischen Telegrafen. in: Wikipedia. https://de.wikipedia.org/w/index.php?title=Liste_der_Stationen_des_preu%C3%9Fischen_optischen_Telegrafen&oldid=231983771 [letzter Zugriff August 25, 2023].\n\n\nanon. (2023a): Liste der Stationen des preußischen optischen Telegrafen. in: Wikipedia. https://de.wikipedia.org/w/index.php?title=Liste_der_Stationen_des_preu%C3%9Fischen_optischen_Telegrafen&oldid=231983771 [letzter Zugriff August 31, 2023].\n\n\nAristoteles (2019): Über die Welt. De Gruyter.\n\n\nBeyrer, Klaus / Barnekow, Rolf (eds.): So weit das auge reicht: Die geschichte der optischen telegrafie ; eine publikation des museums für post und kommunikation, frankfurt am main, anlässlich der gleichnamigen ausstellung ;\n\n\nCaesar, Julius (2013): Der gallische Krieg : De bello gallico: Lateinisch-deutsch. (= Sammlung Tusculum) 4., überarbeitete Auflage Berlin: Akademie Verlag.\n\n\nChappe, Ignace Urbain Jean (1824): Histoire de la télégraphie. Paris: Auteur.\n\n\nCuckovic, Zoran (2016): \"Advanced viewshed analysis: A Quantum GIS plug-in for the analysis of visual landscapes\", in: Journal of Open Source Software 1 (4): 32. 10.21105/joss.00032.\n\n\nČučković, Zoran: QGIS Visibility Analysis. https://landscapearchaeology.org/qgis-visibility-analysis/ [letzter Zugriff September 13, 2023].\n\n\nFrontinus, Sextus Julius (2018): Strategematicon, or Greek and Roman Anecdotes, Concerning Military Policy, and the Science of War: Also Strategecon, or Characteristics of Illustrious Generals. Forgotten Books.\n\n\nGmbH (https://www.klokantech.com/), Klokan Technologies: European Vertical Reference Frame 2000 - EPSG:5129. https://epsg.io [letzter Zugriff September 11, 2023].\n\n\nHerbath, Dieter (1978): Die entwicklung der optischen telegrafie in preußen. (= Arbeitshefte / landeskonservator rheinland 15) Köln: Rheinland-Verl.\n\n\nLencer (2023): Liste der Stationen des preußischen optischen Telegrafen. https://de.wikipedia.org/w/index.php?title=Liste_der_Stationen_des_preu%C3%9Fischen_optischen_Telegrafen&oldid=231983771 [letzter Zugriff August 31, 2023].\n\n\nLevaillant, François (1753-1824) Auteur du texte (1884): Voyage dans l’intérieur de l’Afrique et au Cap de Bonne-Espérance / par F. Le Vaillant [\"sic\"]...\n\n\nMenning, M. / Hendrich, A. (2012): Preussens telegraphenlinie berlin–koblenz und beiträge zur geschichte und geologie des potsdamer telegraphenbergs und seiner umgebung. Telegraphenbuch III. Potsdam: Verlag Dr. Menning.\n\n\nNeumann, Tom: NASA: ICESat & ICESat-2. https://icesat.gsfc.nasa.gov/ [letzter Zugriff September 11, 2023].\n\n\nO’Etzel, Franz August (1834): Memoire über die telegraphie in frankreich. Berlin.\n\n\nPaech, Hans-Jürgen (2021): \"Optische telegrafie: Übertragungsmodalitäten und inhalt der depeschen\",.\n\n\nPoppe, Adolph (1867): Die Bedeutung und das Wesen der antiken Telegraphie, etc.\n\n\nSchiller, Friedrich: Wilhelm tell. https://www.projekt-gutenberg.org/schiller/tell/tell14.html [letzter Zugriff August 21, 2023a].\n\n\nSchiller, Friedrich: Wilhelm tell. https://www.projekt-gutenberg.org/schiller/tell/tell42.html [letzter Zugriff August 21, 2023b].\n\n\nXenophon: Cyropaedia."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Webseite zur Masterarbeit:\nLandschaftsarchäologische Untersuchungen zur preußischen optischen Telegrafenlinie \n\nAuthor\n\nChristian Unger\n\nInstitution\n\nJohannes Gutenberg-Universität Mainz\n\nStudiengang\n\nDigitale Methodik in den Geistes- und Kulturwissenschaften"
+  },
+  {
+    "objectID": "analyse.html",
+    "href": "analyse.html",
+    "title": "Landschaftsarchäologische Untersuchungen",
+    "section": "",
+    "text": "Mit dem erstellten Datensatz wurden mithilfe des QGIS Plugins Visbility Analysis Sichtbarkeitsanalysen durchgeführt. Hierbei wurden mit standisierten Werte für Beobachter und Indikatorhöhen Simulationen aud Basis eines Geländemodelles von 25 Meter Auflösung1 vorgenommen."
+  },
+  {
+    "objectID": "datengrundlage.html",
+    "href": "datengrundlage.html",
+    "title": "Datengrundlage",
+    "section": "",
+    "text": "Im folgenden werden die zur Recherche und Analyse genutzten Daten vorgestellt:\n\nRasterdaten\n\nHistorische Karten\n\nNordrhein Westfalen: Preußische Kartenaufnahme\nNiedersachsen: Preußische Landesaufnahme 1 : 25 000 (PL)\nRheinland Pfalz: Preußische Kartenaufnahme (1843-1878)\nBrandenburg: Karten des deutschen Reiches\n\n\n\nGeländemodelle\n\nCopernicus: EU-DEM v1.1\nNordrhein Westfalen: Digitales Geländemodell - Gitterweite 1 m\nSachsen-Anhalt: Digitales Geländemodell mit einer Gitterweite von 2 m (DGM2)\n\n\n\nSonstige Karten\n\nOpenStreetMap\n\n\n\n\nVektordaten\n\nWikipedia: Liste der Stationen des preußischen optischen Telegrafen\nwww.optischertelegraph4.de/\nMenning, M. / Hendrich, A.: Preussens Telegraphenlinie Berlin–Koblenz und Beiträge zur Geschichte und Geologie des Potsdamer Telegraphenbergs und seiner Umgebung. Telegraphenbuch III, Potsdam 2012.\nOSM: Overpass Turbo API\n[out:json][timeout:25];\n// gather results\n(\n// query part for: “network=\"Preußischer_optischer_Telegraf\"”\nnode[\"network\"=\"Preußischer_optischer_Telegraf\"]({{bbox}});\nway[\"network\"=\"Preußischer_optischer_Telegraf\"]({{bbox}});\nrelation[\"network\"=\"Preußischer_optischer_Telegraf\"]({{bbox}});\n);\n// print results\nout body;\n&gt;;\nout skel qt;"
+  },
+  {
+    "objectID": "karte.html",
+    "href": "karte.html",
+    "title": "Karte",
+    "section": "",
+    "text": "library(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\")"
+  },
+  {
+    "objectID": "Data.html#footnotes",
+    "href": "Data.html#footnotes",
+    "title": "Datenmodell",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nM. Menning, A. Hendrich, Preussens Telegraphenlinie Berlin–Koblenz Und Beiträge Zur Geschichte Und Geologie Des Potsdamer Telegraphenbergs Und Seiner Umgebung. Telegraphenbuch III, Potsdam 2012.↩︎\nIbid.↩︎\nIbid.↩︎\nIbid.↩︎\nIbid.↩︎\nIbid.↩︎\nKlokan Technologies GmbH (https://www.klokantech.com/), European Vertical Reference Frame 2000 - EPSG:5129, n.pl., https://epsg.io.↩︎\nEU-DEM V1.1 — Copernicus Land Monitoring Service, Land item, n.pl., https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1.↩︎"
+  },
+  {
+    "objectID": "analyse.html#intervisibility-network",
+    "href": "analyse.html#intervisibility-network",
+    "title": "Landschaftsarchäologische Untersuchungen",
+    "section": "Intervisibility Network",
+    "text": "Intervisibility Network\nZu Beginn wurde dir Sichtbarkeit der Stationen untereinander geprüft und ein Intervisibility Network erstellt.\n\n\n\nKarte mit den Station 30-33."
+  },
+  {
+    "objectID": "analyse.html#viewshed",
+    "href": "analyse.html#viewshed",
+    "title": "Landschaftsarchäologische Untersuchungen",
+    "section": "Viewshed",
+    "text": "Viewshed\nDaraufhin wurden Sichtbarkeitsfelder der Stationen erstellt. Diese zeigen, farblich abgestuft, Bereiche die für eine oder mehrere Stationen sichtbar sind. So ist es möglich überlappende Sichtfelder zu identifizieren die als alternative Stationsstandorte dienen könnten\n\n\n\nKarte mit alternativen Standorten der Station 42"
+  },
+  {
+    "objectID": "analyse.html#detailuntersuchung",
+    "href": "analyse.html#detailuntersuchung",
+    "title": "Landschaftsarchäologische Untersuchungen",
+    "section": "Detailuntersuchung",
+    "text": "Detailuntersuchung\nUm die Ergebnisse zu bestätigen wurden zwei Gebiete ausgewählt und die Methoden auf Basis höher auflösender Geländemodelle erneut durchgeführt. Hierbei wurden Rasterdaten mit Auflösungen von 2 Metern2 (Oschersleben) und 1 Meter3 (Menden) genutzt. Bei beiden Gebieten haben sich die vorherigen Ergebnisse bestätigt.\n\nOschersleben (Sachsen-Anhalt), Stationen 15 bis 17\n\n\n\nUntersuchungsgebiet Oschersleben\n\n\n\n\nMenden (Nordrhein-Westfalen), Stationen 40 bis 44\n\n\n\nUntersuchungsgebiet Menden"
+  },
+  {
+    "objectID": "analyse.html#footnotes",
+    "href": "analyse.html#footnotes",
+    "title": "Landschaftsarchäologische Untersuchungen",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nEU-DEM V1.1 — Copernicus Land Monitoring Service, Land item, n.pl., https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1.↩︎\nDEM_SA_2m?↩︎\nDEM_NRW_1m?↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Landschaftsarchäologische Untersuchungen zur preußischen optischen Telegrafenlinie",
+    "section": "",
+    "text": "Willkommen auf der Webseite zur Masterabeit!\nHier finden Sie eine kurze Zusammenfassung der behandelten Themen:\n\nUrsprünge\n\nGeschichtlicher Kontext und Einordnung der optischen Telegrafie\n\nDatengrundlage\n\nGrundlegende Forschungsdaten\n\nDatenmodell\n\nDas gewählte Modell zur Datenkonsolidierung\n\nKarte\n\nInteraktive Karte des Datenbestandes\n\nAnalyse\n\nEinblick in die Ergebnisse der Untersuchungen\n\n\n\n\n\nÜbersicht der Stationen der Preußischen optischen Telegrafenlinie"
+  }
+]
